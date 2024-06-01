@@ -798,7 +798,7 @@ footer {
 .footer_navbar_logo {
     height: 50px;
     width: 100px;
-    background-image: url("amazon_logo.png");
+    background-image: url("Images/amazon_logo.png");
     background-size: cover;
     display: flex;
     justify-content: center;
